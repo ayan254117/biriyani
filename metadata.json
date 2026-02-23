@@ -1,0 +1,5 @@
+{
+  "name": "Ramadane Biryani Khujun",
+  "description": "Find the best Biryani places for Iftar and Sehri during Ramadan. Get real-time restaurant locations and timings.",
+  "requestFramePermissions": ["geolocation"]
+}
